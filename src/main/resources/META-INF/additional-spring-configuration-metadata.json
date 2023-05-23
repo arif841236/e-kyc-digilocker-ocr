@@ -1,0 +1,222 @@
+{"properties": [
+  {
+    "name": "message.error",
+    "type": "java.lang.String",
+    "description": "A description for 'message.error'"
+  },
+  {
+    "name": "ekyc.grant.type",
+    "type": "java.lang.String",
+    "description": "A description for 'ekyc.grant.type'"
+  },
+  {
+    "name": "ekyc.granttype.key",
+    "type": "java.lang.String",
+    "description": "A description for 'ekyc.granttype.key'"
+  },
+  {
+    "name": "ekyc.granttype.value",
+    "type": "java.lang.String",
+    "description": "A description for 'ekyc.granttype.value'"
+  },
+  {
+    "name": "ekyc.client.id.key",
+    "type": "java.lang.String",
+    "description": "A description for 'ekyc.client.id.key'"
+  },
+  {
+    "name": "ekyc.client.secret.key",
+    "type": "java.lang.String",
+    "description": "A description for 'ekyc.client.secret.key'"
+  },
+  {
+    "name": "ekyc.client.id.value",
+    "type": "java.lang.String",
+    "description": "A description for 'ekyc.client.id.value'"
+  },
+  {
+    "name": "ekyc.client.secret.value",
+    "type": "java.lang.String",
+    "description": "A description for 'ekyc.client.secret.value'"
+  },
+  {
+    "name": "ekyc.redirect.url.key",
+    "type": "java.lang.String",
+    "description": "A description for 'ekyc.redirect.url.key'"
+  },
+  {
+    "name": "ekyc.redirect.url.value",
+    "type": "java.lang.String",
+    "description": "A description for 'ekyc.redirect.url.value'"
+  },
+  {
+    "name": "header.name",
+    "type": "java.lang.String",
+    "description": "A description for 'header.name'"
+  },
+  {
+    "name": "entity.body",
+    "type": "java.lang.String",
+    "description": "A description for 'entity.body'"
+  },
+  {
+    "name": "header.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'header.auth'"
+  },
+  {
+    "name": "endpoint.uri.token",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.token'"
+  },
+  {
+    "name": "endpoint.uri.user",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.user'"
+  },
+  {
+    "name": "endpoint.uri.issueddoc",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.issueddoc'"
+  },
+  {
+    "name": "endpoint.uri.docuri",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.docuri'"
+  },
+  {
+    "name": "enpoint.uri.docxml",
+    "type": "java.lang.String",
+    "description": "A description for 'enpoint.uri.docxml'"
+  },
+  {
+    "name": "endpoint.uri.aadhaar",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.aadhaar'"
+  },
+  {
+    "name": "url.error",
+    "type": "java.lang.String",
+    "description": "A description for 'url.error'"
+  },
+  {
+    "name": "header.set.msg",
+    "type": "java.lang.String",
+    "description": "A description for 'header.set.msg'"
+  },
+  {
+    "name": "pan.active",
+    "type": "java.lang.String",
+    "description": "A description for 'pan.active'"
+  },
+  {
+    "name": "pan.certificate",
+    "type": "java.lang.String",
+    "description": "A description for 'pan.certificate'"
+  },
+  {
+    "name": "image.direc",
+    "type": "java.lang.String",
+    "description": "A description for 'image.direc'"
+  },
+  {
+    "name": "token.error.msg",
+    "type": "java.lang.String",
+    "description": "A description for 'token.error.msg'"
+  },
+  {
+    "name": "spring.mvc.pathmatch.matching-strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.pathmatch.matching-strategy'"
+  },
+  {
+    "name": "logging.pattern.console",
+    "type": "java.lang.String",
+    "description": "A description for 'logging.pattern.console'"
+  },
+  {
+    "name": "server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'server.port'"
+  },
+  {
+    "name": "endpoint.uri.ocr.aadhaar.front",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.ocr.aadhaar.front'"
+  },
+  {
+    "name": "endpoint.uri.ocr.pan",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.ocr.pan'"
+  },
+  {
+    "name": "endpoint.uri.ocr.aadhaar.back",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.ocr.aadhaar.back'"
+  },
+  {
+    "name": "uri.connection.error",
+    "type": "java.lang.String",
+    "description": "A description for 'uri.connection.error'"
+  },
+  {
+    "name": "file.size.error",
+    "type": "java.lang.String",
+    "description": "A description for 'file.size.error'"
+  },
+  {
+    "name": "content.key",
+    "type": "java.lang.String",
+    "description": "A description for 'content.key'"
+  },
+  {
+    "name": "content.value",
+    "type": "java.lang.String",
+    "description": "A description for 'content.value'"
+  },
+  {
+    "name": "content.file.key",
+    "type": "java.lang.String",
+    "description": "A description for 'content.file.key'"
+  },
+  {
+    "name": "consent.error",
+    "type": "java.lang.String",
+    "description": "A description for 'consent.error'"
+  },
+  {
+    "name": "consent.error2",
+    "type": "java.lang.String",
+    "description": "A description for 'consent.error2'"
+  },
+  {
+    "name": "endpoint.uri.ocr.dl",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.ocr.dl'"
+  },
+  {
+    "name": "endpoint.uri.ocr.passport.front",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.ocr.passport.front'"
+  },
+  {
+    "name": "endpoint.uri.ocr.passport.back",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.uri.ocr.passport.back'"
+  },
+  {
+    "name": "mesage.error2",
+    "type": "java.lang.String",
+    "description": "A description for 'mesage.error2'"
+  },
+  {
+    "name": "management.security.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.security.enabled'"
+  },
+  {
+    "name": "message.error2",
+    "type": "java.lang.String",
+    "description": "A description for 'message.error2'"
+  }
+]}
